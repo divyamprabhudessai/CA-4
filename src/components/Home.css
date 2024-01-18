@@ -1,0 +1,23 @@
+body{
+    background-color: #FFD600;
+}
+
+#logo{
+    width: 38vw;
+    margin-left: 33vw;
+    margin-top: 25vh;
+}
+
+#play{
+    width: 15vw;
+    cursor: pointer;
+}
+
+.but-1{
+    padding: 0;
+    margin: 0;
+    margin-left: 45vw;
+    cursor: pointer;
+    margin-top: 2vw;
+    background-color: black;
+}
