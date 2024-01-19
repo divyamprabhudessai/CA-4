@@ -24,9 +24,10 @@ nav{
     flex-direction: row;
     justify-content: space-between;
     margin-top: 1vw;
-    margin-left: 2vw;
-    margin-right: 2vw;
+    /* margin-left: 2vw;
+    margin-right: 2vw; */
     background-color: white;
+    border-bottom: 5px solid black;
 }
 
 #toggle{
