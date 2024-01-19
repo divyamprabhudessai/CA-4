@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div>
-      <Home/>
+      <QuestionBox/>
       {/* <Router>
             <Switch>
                 <Route path="/QuestionBox" component={QuestionBox} />

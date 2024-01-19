@@ -8,12 +8,15 @@ import play from "../assets/play.png";
 export default function QuestionBox() {
     // const history = useHistory(); 
 
+    
+
     return (
-        <div>
+        <div className='container'>
             <div>
                 <img src={logo} id='logo' alt='Logo'></img>
             </div>
-
+            <hr></hr>
+                
             <div>
                 <button className='but-1'>
                     <img src={play} id='play' alt='Play'></img>
