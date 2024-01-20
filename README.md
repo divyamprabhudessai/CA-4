@@ -1,6 +1,6 @@
 ![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
-### CA - 4: More Quiz
+### CA - 4: Divyam's Quiz App
 
 ### About
 Divyam's quiz app is a React quiz application built to test your knowledge about the basics of React. It consists of 5 questions on the topic on answering one you move to the next and in the end a result page is displayed containing your score and the percentage of correct answers.
