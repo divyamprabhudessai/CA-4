@@ -31,6 +31,12 @@
  
 }
 
+button:active{
+    background-color: #0a8ab1;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
 #toggle{
     width: 6vw;
     height: 4vw;
