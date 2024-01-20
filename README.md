@@ -8,6 +8,10 @@ Divyam's quiz app is a React quiz application built to test your knowledge about
 Hope you enjoy the quiz!!
 
 
+### TECH-STACK
+1. React.js ![](https://icons8.com/icon/Nlsua06Gvxel/react)
+
+
 ### Part 1:
 You are asked to create a quiz app using functional components (have to use `hooks` for state-management).
 There are few functionalities - that you need to achieve ->
