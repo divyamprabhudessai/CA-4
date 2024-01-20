@@ -1,0 +1,45 @@
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: 5px solid rgb(255, 0, 106);
+    height: 6vw;
+}
+#newtog{
+    margin-top: 1vw;
+    width: 6vw;
+    height: 4vw;
+    box-shadow: 4px 4px 4px black;
+    margin-right: 2vw;
+}
+
+#maincont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    row-gap: 3vw;
+}
+
+#restart{
+    cursor: pointer;
+    margin-top: 3vw;
+    width: 10vw;
+    color: white;
+    background-color: #F25656;
+    box-shadow: 4px 4px 11px black;
+}
+
+.info{
+    margin-top: 4vw;
+}
+
+.values{
+    font-size: 3vw;
+}
+
+
+#icon2{
+    height: 4vw;
+    margin-top: 1vw;
+    margin-left: 1vw;
+}

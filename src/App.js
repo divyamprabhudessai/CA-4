@@ -1,24 +1,16 @@
-import React, { useEffect, useState } from "react";
-import "./App.css";
-import questions from "./questions";
-import Result from "./components/Result";
+import React, { useState } from "react";
 import QuestionBox from "./components/QuestionBox";
-import Home from "./components/Home"
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-
-
+import Home from "./components/Home";
+import Result from "./components/Result";
 
 function App() {
+  const [showHome, setShowHome] = useState(true);
 
   return (
     <div>
-      <QuestionBox/>
-      {/* <Router>
-            <Switch>
-                <Route path="/QuestionBox" component={QuestionBox} />
-                <Route path="/" component={Home} />
-            </Switch>
-        </Router> */}
+      
+       <Home/>
+
     </div>
   );
 }

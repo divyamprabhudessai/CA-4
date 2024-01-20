@@ -1,4 +1,4 @@
-.container{
+.container-1{
     background-color: #FFD600;
     width: 100vw;
     height: 100vh;
@@ -13,13 +13,21 @@
 #play{
     width: 15vw;
     cursor: pointer;
+    
 }
+
+
 
 .but-1{
     padding: 0;
     margin: 0;
-    margin-left: 45vw;
+    margin-left: 44vw;
     cursor: pointer;
     margin-top: 2vw;
     background-color: black;
+}
+
+#resimg{
+    width: 20vw;
+    margin-top: 1vw;
 }
