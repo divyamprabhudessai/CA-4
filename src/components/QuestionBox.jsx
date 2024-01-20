@@ -64,9 +64,10 @@ export default function QuestionBox() {
         <div>
           {/* Navigation bar */}
           <nav id="quesnav">
+          <img src={icon} id="icon" />
             <div className="minicont">
-            <img src={icon} id="icon" />
-            <h2 id="page">{`${currentQuestionIndex + 1}/5`}</h2>
+            
+            <h2 id="page">{`Question ${currentQuestionIndex + 1} out of 5`}</h2>
             </div>
             <button id="toggle" onClick={toggleMode}>
               {/* Toggle between dark and light mode */}
