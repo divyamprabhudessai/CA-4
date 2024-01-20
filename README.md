@@ -2,6 +2,11 @@
 
 ### CA - 4: More Quiz
 
+### About
+Divyam's quiz app is a React quiz application built to test your knowledge about the basics of React. It consists of 5 questions on the topic on answering one you move to the next and in the end a result page is displayed containing your score and the percentage of correct answers.
+
+Hope you enjoy the quiz!!
+
 
 ### Part 1:
 You are asked to create a quiz app using functional components (have to use `hooks` for state-management).
